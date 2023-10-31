@@ -1,0 +1,55 @@
+.ajusta-card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.ajusta-card mat-card{
+  margin-left: 10px;
+  width: 25rem;
+  margin-top: 10px;
+}
+
+.ajuste-button{
+  width: 100%;
+}
+
+.ajuste-div-botões{
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  align-items: baseline;
+  margin-top: 10px;
+}
+
+.ajuste-div-botões button{
+  margin-left: 10px;;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.none{
+  display: none;
+}
+
+mat-card{
+  background-color: #e6e6e6;
+}
+
+.card-item{
+  margin-top: 10px;;
+}
+
